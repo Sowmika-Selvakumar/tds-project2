@@ -1,0 +1,7 @@
+{
+    "message": "No specific analytical question was provided, and the input file 'data.csv' is empty or contains no data.",
+    "data_summary": {
+        "rows_read": 0,
+        "columns_read": []
+    }
+}

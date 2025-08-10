@@ -1,0 +1,24 @@
+Metadata for data collected in 'uploads/4131be2b-9223-4858-8388-2e7aee2e9a49':
+--------------------------------------------------
+File: uploads/4131be2b-9223-4858-8388-2e7aee2e9a49\data.csv
+Description: This file is a placeholder for the final dataset.
+No specific data source (URL or uploaded file) was provided in the query.
+Therefore, an empty CSV file has been created to fulfill the output file requirement.
+
+DataFrame Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 0 entries
+Empty DataFrame
+
+DataFrame Columns:
+No columns as DataFrame is empty.
+
+DataFrame Head:
+No rows to display as DataFrame is empty.
+
+JSON Answer Format (referring to the expected output of this script):
+{
+  "code": "string — Python scraping code as plain text",
+  "libraries": ["string — names of required libraries"],
+  "questions": ["string — extracted questions"]
+}
